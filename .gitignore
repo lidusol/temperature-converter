@@ -1,0 +1,11 @@
+# Ignore cache files
+*.pyc
+
+# Ignore the virtual environment
+.DS_Store
+
+# Ignore the meta data
+*.egg-info/
+
+# Ignore the logs 
+*.log
